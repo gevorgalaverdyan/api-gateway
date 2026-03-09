@@ -1,0 +1,9 @@
+echo ""
+curl localhost:8080/users
+echo ""
+echo ""
+curl localhost:8080/products
+echo ""
+curl localhost:8080/users
+echo ""
+curl localhost:8080/services
